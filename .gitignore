@@ -1,0 +1,7 @@
+<CodeBlock language="text" editable>
+obj_dir/
+runs/
+README_local_backup.md
+*.log
+*.tmp
+</CodeBlock>
